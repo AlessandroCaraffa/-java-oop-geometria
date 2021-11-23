@@ -10,9 +10,9 @@ public class Main {
 		Rettangolo rettangolo1 = new Rettangolo();
 		
 		
-		System.out.print("Base : ");
-		rettangolo1.altezza = scan.nextInt();
 		System.out.print("Altezza : ");
+		rettangolo1.altezza = scan.nextInt();
+		System.out.print("Base : ");
 		rettangolo1.base = scan.nextInt();
 
 		

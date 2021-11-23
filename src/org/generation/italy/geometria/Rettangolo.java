@@ -12,13 +12,13 @@ public class Rettangolo {
 	}
 	
 	int calcolaArea () {
-		 int area= base * altezza;
-		 return area;
+		return base * altezza;
+		 
 	}
 	
 	int calcolaPerimetro () {
-		 int Perimetro= (base+altezza)*2;
-		 return Perimetro;
+		return (base+altezza)*2;
+		 
 	}
 	
 	
